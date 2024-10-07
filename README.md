@@ -14,6 +14,10 @@
 <a href="https://medium.com/@mustafailahi586" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mustafailahi586" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@mustafailahi586" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mustafailahi586" height="30" width="40" /></a>
 <a href="https://discord.gg/mustafailahi1353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mustafailahi1353" height="30" width="40" /></a>
+  <a href="https://www.upwork.com/freelancers/~YOUR_UPWORK_ID" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Upwork_logo.svg/512px-Upwork_logo.svg.png" alt="upwork" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
