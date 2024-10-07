@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa — Transforming Ideas into Code! 🚀💡</h1>
-<h3 align="center">💻 Expert Full Stack Web & Mobile App Developer | 🎯 Delivering High-Quality Apps with Customized Solutions</h3>
+<h3 align="center">💻 Expert Full Stack Web & Mobile Developer | 🎯 Delivering High-Quality Customized Apps</h3>
 
 - 📫 How to reach me **mustafailahi586@gmail.com**
 
