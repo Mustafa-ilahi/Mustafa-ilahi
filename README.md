@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafa-ilahi&show_icons=true&locale=en&theme=dark" alt="mustafa-ilahi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-ilahi&" alt="mustafa-ilahi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-ilahi&theme=dark" alt="mustafa-ilahi" /></p>
